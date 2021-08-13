@@ -6,6 +6,6 @@ Test Comment 1
 
 Test Comment 2
 
-Adding Comment 3 Again
+Adding Comment 3 Again - Commit
 
 Test Comment 4
